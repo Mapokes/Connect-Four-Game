@@ -43,7 +43,7 @@ Users are able to:
 
 ### Links
 
-- Live Site URL: [gh-pages]()
+- Live Site URL: [gh-pages](https://mapokes.github.io/Connect-Four-Game/)
 
 ## My process
 
