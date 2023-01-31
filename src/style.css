@@ -542,7 +542,7 @@ body {
 }
 
 .section-game--game {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .game--btn {
